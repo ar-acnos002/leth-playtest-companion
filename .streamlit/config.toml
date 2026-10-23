@@ -1,0 +1,8 @@
+[theme]
+base = "dark"
+primaryColor = "#3D8B63"
+borderColor = "#475569"
+showWidgetBorder = true
+
+[server]
+maxUploadSize = 5

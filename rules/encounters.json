@@ -1,0 +1,385 @@
+{
+  "schema_version": "1.0",
+  "encounters": [
+    {
+      "id": 1,
+      "name": "Aggressor",
+      "description": "Someone is threatening another and appears ready to hurt them."
+    },
+    {
+      "id": 2,
+      "name": "Ailing",
+      "description": "An animal is suffering from an illness or injury that needs treatment."
+    },
+    {
+      "id": 3,
+      "name": "Ambusher",
+      "description": "Careful observation may expose someone lying concealed, ready to strike."
+    },
+    {
+      "id": 4,
+      "name": "Arcanum",
+      "description": "A magical object reveals itself only when you sense and read its arcane presence."
+    },
+    {
+      "id": 5,
+      "name": "Audience",
+      "description": "Someone - or a gathered group - offers an opportunity to gain something by performing for them."
+    },
+    {
+      "id": 6,
+      "name": "Beast",
+      "description": "A dangerous animal attacks or stands violently in your way."
+    },
+    {
+      "id": 7,
+      "name": "Blighted",
+      "description": "Someone is afflicted by a supernatural malady that must be understood before they can be helped."
+    },
+    {
+      "id": 8,
+      "name": "Brigand",
+      "description": "A hostile person confronts you and intends violence."
+    },
+    {
+      "id": 9,
+      "name": "Burden",
+      "description": "Someone is pinned or trapped beneath something that must be physically moved."
+    },
+    {
+      "id": 10,
+      "name": "Cache",
+      "description": "You uncover a concealed store of useful equipment."
+    },
+    {
+      "id": 11,
+      "name": "Captor",
+      "description": "Someone holds another person against their will."
+    },
+    {
+      "id": 12,
+      "name": "Carcass",
+      "description": "Signs in the wild lead you to the remains of a dead animal."
+    },
+    {
+      "id": 13,
+      "name": "Carrion",
+      "description": "The decaying remains of an animal make the way ahead feel distinctly ill-favoured."
+    },
+    {
+      "id": 14,
+      "name": "Climb",
+      "description": "What you seek lies above or below, requiring strength and athleticism to reach."
+    },
+    {
+      "id": 15,
+      "name": "Contraption",
+      "description": "A small but consequential contraption can be altered through precise tampering."
+    },
+    {
+      "id": 16,
+      "name": "Control",
+      "description": "An ongoing hazard is governed by a device whose workings can be discovered and shut down."
+    },
+    {
+      "id": 17,
+      "name": "Crypt",
+      "description": "Careful examination reveals a concealed way into or through an enclosed place."
+    },
+    {
+      "id": 18,
+      "name": "Cursed",
+      "description": "An animal suffers beneath a supernatural affliction that must be understood to save it."
+    },
+    {
+      "id": 19,
+      "name": "Discovery",
+      "description": "Careful observation may reveal something remarkable that would otherwise go unnoticed."
+    },
+    {
+      "id": 20,
+      "name": "Dispute",
+      "description": "Two sides are at odds and must be persuaded or intimidated into yielding."
+    },
+    {
+      "id": 21,
+      "name": "Distortion",
+      "description": "Something supernatural has made the surrounding space difficult to navigate normally."
+    },
+    {
+      "id": 22,
+      "name": "Enforcer",
+      "description": "Someone confronts you, intent on taking either you or something in your possession."
+    },
+    {
+      "id": 23,
+      "name": "Engine",
+      "description": "A functioning machine or system can be sabotaged by understanding how it works."
+    },
+    {
+      "id": 24,
+      "name": "Feral",
+      "description": "An animal's wild behaviour must be changed before it can be dealt with safely."
+    },
+    {
+      "id": 25,
+      "name": "Footing",
+      "description": "The way forward crosses precarious ground where balance and agility matter."
+    },
+    {
+      "id": 26,
+      "name": "Gambler",
+      "description": "Someone offers an opportunity to gain something by staking it on a game or wager."
+    },
+    {
+      "id": 27,
+      "name": "Gatekeeper",
+      "description": "Someone controls your access and must be deceived into allowing you through."
+    },
+    {
+      "id": 28,
+      "name": "Gauntlet",
+      "description": "The way through demands a sequence of agile physical manoeuvres."
+    },
+    {
+      "id": 29,
+      "name": "Grim",
+      "description": "An ominous animal appears, and its presence fills you with foreboding."
+    },
+    {
+      "id": 30,
+      "name": "Guardian",
+      "description": "A benevolent animal appears whose presence makes your situation feel safer."
+    },
+    {
+      "id": 31,
+      "name": "Guide",
+      "description": "An animal's behaviour shows you a useful way forward."
+    },
+    {
+      "id": 32,
+      "name": "Gull",
+      "description": "Someone can be deceived into surrendering something you need."
+    },
+    {
+      "id": 33,
+      "name": "Harbinger",
+      "description": "Someone brings news or signs that leave you expecting trouble ahead."
+    },
+    {
+      "id": 34,
+      "name": "Haunt",
+      "description": "A place is troubled by a supernatural presence that arcane understanding may lay to rest."
+    },
+    {
+      "id": 35,
+      "name": "Herald",
+      "description": "Someone brings welcome news or signs that strengthen your resolve."
+    },
+    {
+      "id": 36,
+      "name": "Holdout",
+      "description": "Someone doesn't seem inclined toward the change you want, but might be convinced or deceived."
+    },
+    {
+      "id": 37,
+      "name": "Hollow",
+      "description": "Your knowledge of the natural world reveals a secluded space hidden within the landscape."
+    },
+    {
+      "id": 38,
+      "name": "Hostile",
+      "description": "An aggressive animal threatens someone who needs your protection."
+    },
+    {
+      "id": 39,
+      "name": "Kindred",
+      "description": "An animal shows signs that a bond of trust could be formed with it."
+    },
+    {
+      "id": 40,
+      "name": "Mark",
+      "description": "Someone possesses something that might be useful to you and presents an opportunity to take it through deception or intimidation."
+    },
+    {
+      "id": 41,
+      "name": "Mechanism",
+      "description": "A mechanism bars the way, but understanding its workings may let you pass."
+    },
+    {
+      "id": 42,
+      "name": "Nook",
+      "description": "Careful observation may reveal a small, easily overlooked place."
+    },
+    {
+      "id": 43,
+      "name": "Obstruction",
+      "description": "A physical obstacle blocks the way and must be forced aside or overcome."
+    },
+    {
+      "id": 44,
+      "name": "Omen",
+      "description": "From here you can see another place ahead bearing a discouraging sign - distant storm clouds, black smoke, or something similarly foreboding."
+    },
+    {
+      "id": 45,
+      "name": "Passage",
+      "description": "Careful observation may reveal a way through the surrounding place."
+    },
+    {
+      "id": 46,
+      "name": "Predator",
+      "description": "A hunting animal threatens pursuit, but might be escaped through a convincing pretense."
+    },
+    {
+      "id": 47,
+      "name": "Prowler",
+      "description": "An animal moves nearby without yet noticing you, leaving you a chance to slip past unseen."
+    },
+    {
+      "id": 48,
+      "name": "Quarry",
+      "description": "Signs in the natural world reveal an animal worth tracking down."
+    },
+    {
+      "id": 49,
+      "name": "Reach",
+      "description": "What you seek lies somewhere awkward or precarious to access."
+    },
+    {
+      "id": 50,
+      "name": "Refuge",
+      "description": "You find a sheltered place where you can safely recover your strength and resolve."
+    },
+    {
+      "id": 51,
+      "name": "Resistant",
+      "description": "Someone is refusing to cooperate with the delivery and must be persuaded or intimidated into doing so."
+    },
+    {
+      "id": 52,
+      "name": "Resource",
+      "description": "The natural world offers useful supplies that can be gathered."
+    },
+    {
+      "id": 53,
+      "name": "Restraint",
+      "description": "Someone is bound by a restraint that careful, dexterous manipulation can defeat."
+    },
+    {
+      "id": 54,
+      "name": "Safe",
+      "description": "Something you need is secured against easy access and must be deftly retrieved."
+    },
+    {
+      "id": 55,
+      "name": "Separation",
+      "description": "Someone has become physically cut off from safety and must be reached."
+    },
+    {
+      "id": 56,
+      "name": "Snare",
+      "description": "Someone is caught in a contrivance whose workings must be understood to free them."
+    },
+    {
+      "id": 57,
+      "name": "Sovereign",
+      "description": "An object with a will of its own may be persuaded or intimidated into becoming yours."
+    },
+    {
+      "id": 58,
+      "name": "Stalker",
+      "description": "An animal is closing in unseen, preparing to ambush you if you fail to notice it."
+    },
+    {
+      "id": 59,
+      "name": "Stranding",
+      "description": "Someone is trapped somewhere they cannot leave without agile assistance."
+    },
+    {
+      "id": 60,
+      "name": "Stricken",
+      "description": "Someone suffers from an illness or injury that needs treatment."
+    },
+    {
+      "id": 61,
+      "name": "Sullen",
+      "description": "An object with a will of its own refuses to cooperate and must somehow be won over."
+    },
+    {
+      "id": 62,
+      "name": "Support",
+      "description": "Something larger depends upon a physical support that can be broken, shifted or removed."
+    },
+    {
+      "id": 63,
+      "name": "Terrain",
+      "description": "Difficult terrain makes progress dependent upon physical exertion."
+    },
+    {
+      "id": 64,
+      "name": "Thief",
+      "description": "A fleeting glimpse may reveal someone escaping with something stolen from you, while pursuit is still possible."
+    },
+    {
+      "id": 65,
+      "name": "Threshold",
+      "description": "A magical doorway or boundary will permit passage only if you can establish the right arcane connection with it."
+    },
+    {
+      "id": 66,
+      "name": "Trader",
+      "description": "Someone offers an exchange, with an opportunity to haggle the trade in your favour."
+    },
+    {
+      "id": 67,
+      "name": "Trap",
+      "description": "Careful observation may reveal a concealed danger before it catches someone."
+    },
+    {
+      "id": 68,
+      "name": "Trigger",
+      "description": "A dangerous mechanism can be neutralized through precise manipulation."
+    },
+    {
+      "id": 69,
+      "name": "Troublemaker",
+      "description": "One or more people are causing trouble for those around them and must be talked into scattering."
+    },
+    {
+      "id": 70,
+      "name": "Veilstead",
+      "description": "Arcane perception reveals a place concealed by supernatural means."
+    },
+    {
+      "id": 71,
+      "name": "Vista",
+      "description": "You reach a vantage point that gives you a heartening view of what lies ahead."
+    },
+    {
+      "id": 72,
+      "name": "Warden",
+      "description": "Someone has caught you trespassing, and you must deceive them into allowing you to remain."
+    },
+    {
+      "id": 73,
+      "name": "Watcher",
+      "description": "Someone keeps watch nearby, forcing you to pass without being noticed."
+    },
+    {
+      "id": 74,
+      "name": "Wayward",
+      "description": "Someone you need to bring with you refuses to come willingly."
+    },
+    {
+      "id": 75,
+      "name": "Wild",
+      "description": "You enter an untamed, inhospitable place that wears down your resolve."
+    },
+    {
+      "id": 76,
+      "name": "Wonder",
+      "description": "A strange animal can be noticed only by following a sudden magical pull on your perception."
+    }
+  ]
+}
